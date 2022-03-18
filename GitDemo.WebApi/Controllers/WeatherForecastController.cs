@@ -8,8 +8,6 @@ namespace GitDemo.WebApi.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", 
-            "Bracing",
             "Chilly",
             "Cool",
             "Mild",
