@@ -9,15 +9,12 @@ namespace GitDemo.WebApi.Controllers
         private static readonly string[] Summaries = new[]
         {
             "Chilly",
-            "Cool",
             "Mild",
+            "Bracing",
+            "Really hot",
             "Warm",
             "Balmy",
-            "Hot",
-            "Sweltering",
-            "Scorching",
             "Taps aff",
-            "Taps on",
             "Guns out"
         };
 
